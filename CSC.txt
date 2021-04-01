@@ -1,0 +1,6 @@
+     Context-free Grammar: set of rules
++ Non-terminal: ki hieu chu cai thuong: a,b,c
++ Termial: chu cai IN HOA: ID, CS,...
+
+Non-terminal ---> nonterminal
+	     ---> terminal 
